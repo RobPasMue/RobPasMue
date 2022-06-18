@@ -10,8 +10,7 @@
 
 My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastormuela/), a software developer with a M.Sc. in Aeronautical Engineering by the [UC3M](https://www.uc3m.es/home) and experience in the space sector (astrodynamics, precise orbit determination), computational fluid dynamics (CFD) and simulations. I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [PyAnsys organization](https://github.com/pyansys), where I contribute to multiple open-source projects! Looking forward to talking to you all!
 
-
-### :man_technologist: Software languages
+## :man_technologist: Software languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -25,7 +24,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="LabVIEW"  alt="LabVIEW" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Software tools
+## :hammer_and_wrench: Software tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
@@ -52,7 +51,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=robpasmue&count_private=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=robpasmue&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=robpasmue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
