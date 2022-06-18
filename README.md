@@ -20,8 +20,8 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/fortran.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg" title="LabVIEW"  alt="LabVIEW" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabVIEW"  alt="LabVIEW" width="40" height="40"/>&nbsp;
 </div>
 
 ## :hammer_and_wrench: Software tools
