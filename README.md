@@ -10,6 +10,29 @@
 
 My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastormuela/), a software developer with a M.Sc. in Aeronautical Engineering by the [UC3M](https://www.uc3m.es/home) and experience in the space sector (astrodynamics, precise orbit determination), computational fluid dynamics (CFD) and simulations. I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [PyAnsys organization](https://github.com/pyansys), where I contribute to multiple open-source projects! Looking forward to talking to you all!
 
+## :handshake: Connect with me!
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/robertopastormuela/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/RobPasMue">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+  </a>
+  <a href="https://dev.to/robpasmue">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" title="dev.to"/>
+  </a>
+  <a href="mailto:roberpm1995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="GMail"/>
+  </a>
+  <a href="https://github.com/ansys">
+    <img src="https://img.shields.io/badge/Ansys-ffc107.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC" title="Ansys"/>
+  </a>
+  <a href="https://github.com/pyansys">
+    <img src="https://img.shields.io/badge/Py-Ansys-ffc107.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABDklEQVQ4jWNgoDfg5mD8vE7q/3bpVyskbW0sMRUwofHD7Dh5OBkZGBgW7/3W2tZpa2tLQEOyOzeEsfumlK2tbVpaGj4N6jIs1lpsDAwMJ278sveMY2BgCA0NFRISwqkhyQ1q/Nyd3zg4OBgYGNjZ2ePi4rB5loGBhZnhxTLJ/9ulv26Q4uVk1NXV/f///////69du4Zdg78lx//t0v+3S88rFISInD59GqIH2esIJ8G9O2/XVwhjzpw5EAam1xkkBJn/bJX+v1365hxxuCAfH9+3b9/+////48cPuNehNsS7cDEzMTAwMMzb+Q2u4dOnT2vWrMHu9ZtzxP9vl/69RVpCkBlZ3N7enoDXBwEAAA+YYitOilMVAAAAAElFTkSuQmCC" title="PyAnsys"/>
+  </a>
+</div>
+
 ## :man_technologist: Software languages
 
 <div>
