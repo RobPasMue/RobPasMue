@@ -16,7 +16,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <a href="https://www.linkedin.com/in/robertopastormuela/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
-  <a href="https://www.www.github.com/RobPasMue">
+  <a href="https://www.github.com/RobPasMue">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
   </a>
   <a href="https://www.dev.to/robpasmue">
