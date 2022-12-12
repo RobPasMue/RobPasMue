@@ -89,7 +89,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <!--
