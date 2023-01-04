@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.deta.dev/badge?page_id=RobPasMue.RobPasMue">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=robpasmue.robpasmue">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
