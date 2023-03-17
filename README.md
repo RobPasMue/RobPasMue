@@ -49,6 +49,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" title="LabVIEW"  alt="LabVIEW" width="40" height="40"/>&nbsp;
@@ -73,6 +74,9 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="Subversion" **alt="Subversion" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
 </div>
 
 ## ⚡ GitHub statistics
