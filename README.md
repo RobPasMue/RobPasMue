@@ -75,7 +75,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="Subversion" **alt="Subversion" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
 </div>
 
