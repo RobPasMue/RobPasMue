@@ -8,7 +8,7 @@
 
 ## A little bit about myself.. 👋😄
 
-My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastormuela/), a software developer with a MSc. in Aeronautical Engineering by the [UC3M](https://www.uc3m.es/home) and experience in the space sector (astrodynamics, precise orbit determination), computational fluid dynamics (CFD) and simulations. I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [PyAnsys organization](https://github.com/pyansys), where I contribute to multiple open-source projects! Looking forward to talking to you all!
+My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastormuela/), a software developer with a MSc. in Aeronautical Engineering by the [UC3M](https://www.uc3m.es/home) and experience in the space sector (astrodynamics, precise orbit determination), computational fluid dynamics (CFD) and simulations. I am currently working for [Ansys](https://www.ansys.com/), more specifically for the [Ansys GitHub organization](https://github.com/ansys) and the [PyAnsys ecosystem](https://docs.pyansys.com/), where I contribute to multiple open-source projects! Looking forward to talking to you all!
 
 
 ## :astronaut: My resume
