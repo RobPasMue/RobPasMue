@@ -14,7 +14,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
 ## :astronaut: My resume
 
 * You can access my short-version resume, in the following GH page! :arrow_right: [Roberto Pastor's short resume](https://robpasmue.github.io/short-cv/)
-* You can also access my full resume, in the following GH page! :soon: [Roberto Pastor's long resume](https://robpasmue.github.io/cv/)
+* You can also access my personal web portfolio, in the following GH page! :soon: [Roberto Pastor's portfolio](https://robpasmue.github.io/)
 
 
 ## :handshake: Connect with me!
