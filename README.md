@@ -42,7 +42,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
 
 ## :man_technologist: Software languages
 
-<div>
+<div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
 
 ## :hammer_and_wrench: Software tools
 
-<div>
+<div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
@@ -86,29 +86,13 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=RobPasMue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align=center width=390 src="https://streak-stats.demolab.com/?user=RobPasMue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/RobPasMue/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=robpasmue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align=center width=390 src="https://github-readme-stats.vercel.app/api?username=robpasmue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <br>
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img align=center src="https://github-readme-activity-graph.cyclic.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+  <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<!--
-**RobPasMue/RobPasMue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
