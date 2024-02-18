@@ -92,7 +92,6 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
       <img align=center width=390 src="https://github-readme-stats.vercel.app/api?username=robpasmue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <br>
 <!--   <img align=center src="https://github-readme-activity-graph.cyclic.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
