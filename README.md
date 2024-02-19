@@ -87,6 +87,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
   <br/>
   <img align=center width="60%" src="https://streak-stats.demolab.com/?user=RobPasMue&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="zumrudu-anka"/>
   <br/>
+  <br/>
 <!--   <img align=center src="https://github-readme-activity-graph.cyclic.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
   <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
