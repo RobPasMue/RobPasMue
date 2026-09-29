@@ -1,0 +1,60 @@
+name: Update activity graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@6411849745757299611a795fef822a31ca8d1d02 # v1.0.0
+        with:
+          username: ${{ github.repository_owner }}
+          options: count_private=true&theme=react-dark&bg_color=20232a&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Self-hosted on an orphan "outputs" branch so main stays clean; avoids the
+      # Vercel deployment outage (see Ashutosh00710/github-readme-activity-graph#265).
+      - name: Publish SVG to orphan output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          WORKTREE="$(mktemp -d)"
+
+          if git ls-remote --exit-code --heads origin outputs > /dev/null 2>&1; then
+            git fetch origin outputs:outputs
+            git worktree add "$WORKTREE" outputs
+          else
+            git worktree add --detach "$WORKTREE"
+            git -C "$WORKTREE" checkout --orphan outputs
+            git -C "$WORKTREE" rm -rf . > /dev/null 2>&1 || true
+          fi
+
+          mkdir -p "$WORKTREE/dist"
+          cp dist/activity-graph.svg "$WORKTREE/dist/activity-graph.svg"
+
+          cd "$WORKTREE"
+          git add dist/activity-graph.svg
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: update activity graph"
+          git push origin HEAD:outputs

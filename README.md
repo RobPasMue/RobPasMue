@@ -88,6 +88,7 @@ My name is [**Roberto Pastor Muela**](https://www.linkedin.com/in/robertopastorm
       <img width=49.9% src="https://github-readme-streak-stats-iwzbces5h-robpasmues-projects.vercel.app/?user=RobPasMue&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </div>
   <div>
-    <img align="center" width=97.3% src="https://github-readme-activity-graph.vercel.app/graph?username=robpasmue&count_private=true&theme=react-dark&bg_color=20232a&hide_border=true"/>
+    <!-- Self-hosted via .github/workflows/activity-graph.yml on the orphan "outputs" branch, since the Vercel deployment is unreliable -->
+    <img align="center" width=97.3% src="https://raw.githubusercontent.com/RobPasMue/RobPasMue/outputs/dist/activity-graph.svg" alt="Roberto's GitHub activity graph"/>
   </div>
 </div>
