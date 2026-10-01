@@ -38,23 +38,17 @@ jobs:
 
           WORKTREE="$(mktemp -d)"
 
-          if git ls-remote --exit-code --heads origin outputs > /dev/null 2>&1; then
-            git fetch origin outputs:outputs
-            git worktree add "$WORKTREE" outputs
-          else
-            git worktree add --detach "$WORKTREE"
-            git -C "$WORKTREE" checkout --orphan outputs
-            git -C "$WORKTREE" rm -rf . > /dev/null 2>&1 || true
-          fi
+          # Always start from a brand-new orphan branch (never fetch the old
+          # "outputs" history) so it stays a single-commit branch, force-pushed
+          # fresh each run instead of accumulating commits.
+          git worktree add --detach "$WORKTREE"
+          git -C "$WORKTREE" checkout --orphan outputs
+          git -C "$WORKTREE" rm -rf . > /dev/null 2>&1 || true
 
           mkdir -p "$WORKTREE/dist"
           cp dist/activity-graph.svg "$WORKTREE/dist/activity-graph.svg"
 
           cd "$WORKTREE"
           git add dist/activity-graph.svg
-          if git diff --cached --quiet; then
-            echo "No changes to publish."
-            exit 0
-          fi
           git commit -m "chore: update activity graph"
-          git push origin HEAD:outputs
+          git push --force origin HEAD:outputs
